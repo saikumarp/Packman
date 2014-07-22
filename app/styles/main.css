@@ -1,0 +1,34 @@
+.header {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  height: 30px;
+  background: #339DC4;
+}
+
+canvas {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  background: rgba(181, 201, 206, 0.8);
+
+}
+.container {
+  position: absolute;
+  top: 30px;
+  bottom: 30px;
+  left: 0px;
+  right: 0px;
+}
+
+.footer {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 30px;
+  background: #339DC4;
+}
