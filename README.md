@@ -1,4 +1,1 @@
-Packman
-=======
-
-just game with angular
+Packman Game .
